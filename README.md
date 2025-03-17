@@ -20,7 +20,7 @@ the entire dataset without data augmentation.
 
 For compute limitations, as suggested, only digits 1 and 2 of the MNIST dataset have been used. 
 
-The VAE used is a [beta-VAE](https://openreview.net/pdf?id=Sy2fzU9gl) with a beta parameter of 4.0 that helped improving the quality of the latent represantion learned.
+The VAE used is a [beta-VAE](https://openreview.net/forum?id=Sy2fzU9gl) with a beta parameter of 4.0 that helped improving the quality of the latent represantion learned.
 
 
 
